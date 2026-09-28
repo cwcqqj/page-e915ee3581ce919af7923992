@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.hpjgllg.cn/sitemap.xml
